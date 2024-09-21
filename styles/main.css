@@ -7,7 +7,7 @@ body {
 .qr-container {
     margin: 156px calc(50% - 160px) 0;
     padding: 16px 16px 40px 16px;
-    border-radius: 5px;
+    border-radius: 25px;
     width: auto;
     height: 443px;
     max-height: 499px;
